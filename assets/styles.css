@@ -1,0 +1,23 @@
+.savedCity{
+    width: 250px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+}
+#today {
+    background: rgb(212, 244, 248);
+    
+}
+
+#today div {
+    padding: 10px;
+}
+
+#forecast {
+    padding: 10px;
+}
+
+#forecast div {
+    background: rgb(72, 166, 255);
+    color: aliceblue;
+    margin: 5px;
+}
