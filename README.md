@@ -42,7 +42,7 @@
 
   ![The weather app includes a search option, a list of cities, and a five-day forecast and current weather conditions for London.](./assets/10-server-side-apis-challenge-demo.png)
   
-  Link to deployed App [Duck Duck Go](https://decomacie.github.io/Weather_Dashboard/). 
+  Link to deployed App [Weather Dashboard](https://decomacie.github.io/Weather_Dashboard/). 
   
   
   ## License
