@@ -8,7 +8,7 @@ function getCityInfo(city) {
   } else {
     city = city.charAt(0).toUpperCase() + city.slice(1).toLowerCase();
     var queryURL =
-      "http://api.openweathermap.org/geo/1.0/direct?q=" +
+      "https://api.openweathermap.org/geo/1.0/direct?q=" +
       city +
       "&appid=" +
       apiKey;
